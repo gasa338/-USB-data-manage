@@ -1,0 +1,519 @@
+2024-04-23 22:18:49,666 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:18:49
+2024-04-23 22:18:49,668 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:18:49
+2024-04-23 22:18:49,669 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:18:49
+2024-04-23 22:18:49,672 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:18:49
+2024-04-23 22:18:49,673 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:18:49
+2024-04-23 22:18:49,826 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-04-23 22:18:49,827 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-04-23 22:18:49
+2024-04-23 22:18:49,827 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-04-23 22:18:49,851 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:18:49,891 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-04-23 22:18:49,891 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-04-23 22:18:49
+2024-04-23 22:18:49,892 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-04-23 22:18:49,901 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-04-23 22:18:49,903 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-04-23 22:18:49
+2024-04-23 22:18:49,903 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-04-23 22:19:17,331 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:19:17,332 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-04-23 22:19:17
+2024-04-23 22:19:17,333 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:27
+2024-04-23 22:19:28,536 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-04-23 22:19:28,537 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-04-23 22:19:28
+2024-04-23 22:19:28,538 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:38
+2024-04-23 22:24:48,940 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:24:48
+2024-04-23 22:24:48,942 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:24:48
+2024-04-23 22:24:48,944 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:24:48
+2024-04-23 22:24:48,945 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:24:48
+2024-04-23 22:24:48,947 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:24:48
+2024-04-23 22:24:49,131 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-04-23 22:24:49,132 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-04-23 22:24:49
+2024-04-23 22:24:49,133 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-04-23 22:24:49,140 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-04-23 22:24:49,141 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-04-23 22:24:49
+2024-04-23 22:24:49,142 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-04-23 22:24:49,150 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-04-23 22:24:49,150 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-04-23 22:24:49
+2024-04-23 22:24:49,151 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-04-23 22:24:49,159 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:25:16,240 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:25:16,241 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-04-23 22:25:16
+2024-04-23 22:25:16,242 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:27
+2024-04-23 22:25:27,301 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-04-23 22:25:27,302 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-04-23 22:25:27
+2024-04-23 22:25:27,304 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:38
+2024-04-23 22:27:12,970 - [94mINFO[0m - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:27:12
+2024-04-23 22:27:12,972 - [94mINFO[0m - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:27:12
+2024-04-23 22:27:12,974 - [94mINFO[0m - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:27:12
+2024-04-23 22:27:12,975 - [94mINFO[0m - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:27:12
+2024-04-23 22:27:13,125 - [94mINFO[0m - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-04-23 22:27:13,126 - [94mINFO[0m - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-04-23 22:27:13
+2024-04-23 22:27:13,127 - [94mINFO[0m - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-04-23 22:27:13,134 - [94mINFO[0m - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-04-23 22:27:13,135 - [94mINFO[0m - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-04-23 22:27:13
+2024-04-23 22:27:13,136 - [94mINFO[0m - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-04-23 22:27:13,146 - [94mINFO[0m - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-04-23 22:27:13,147 - [94mINFO[0m - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-04-23 22:27:13
+2024-04-23 22:27:13,148 - [94mINFO[0m - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-04-23 22:27:13,154 - [94mINFO[0m - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:27:27,034 - [94mINFO[0m - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:27:27,035 - [94mINFO[0m - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-04-23 22:27:27
+2024-04-23 22:27:27,035 - [94mINFO[0m - Elapsed time for drive F: and Shopnosis_046: 00:00:14
+2024-04-23 22:31:16,189 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:31:16
+2024-04-23 22:31:16,192 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:31:16
+2024-04-23 22:31:16,194 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:31:16
+2024-04-23 22:31:16,206 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-04-23 22:31:16,299 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:31:33,711 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-04-23 22:31:43,034 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:31:43,041 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-04-23 22:31:43
+2024-04-23 22:31:43,043 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:26
+2024-04-23 22:31:53,761 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-04-23 22:31:53,762 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-04-23 22:31:53
+2024-04-23 22:31:53,763 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:37
+2024-04-23 22:36:58,275 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:36:58
+2024-04-23 22:36:58,278 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:36:58
+2024-04-23 22:36:58,281 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:36:58
+2024-04-23 22:36:58,284 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:36:58
+2024-04-23 22:36:58,287 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:36:58
+2024-04-23 22:36:58,290 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:36:58
+2024-04-23 22:36:58,292 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:36:58
+2024-04-23 22:36:58,296 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-04-23 22:36:58,300 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-04-23 22:36:58,476 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-04-23 22:36:58,477 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-04-23 22:36:58
+2024-04-23 22:36:58,478 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-04-23 22:36:58,486 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-04-23 22:36:58,489 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-04-23 22:36:58
+2024-04-23 22:36:58,490 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-04-23 22:36:58,494 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-04-23 22:36:58,495 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-04-23 22:36:58
+2024-04-23 22:36:58,496 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-04-23 22:36:58,507 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:37:11,448 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-04-23 22:37:12,851 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-04-23 22:37:25,817 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:37:25,820 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-04-23 22:37:25
+2024-04-23 22:37:25,821 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:27
+2024-04-23 22:37:37,003 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-04-23 22:37:37,003 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-04-23 22:37:37
+2024-04-23 22:37:37,004 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:38
+2024-04-23 22:37:48,920 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:37:48
+2024-04-23 22:37:48,922 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:37:48
+2024-04-23 22:38:16,206 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:38:16
+2024-04-23 22:38:16,209 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:38:16
+2024-04-23 22:38:16,212 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:38:16
+2024-04-23 22:38:16,215 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:38:16
+2024-04-23 22:38:16,217 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:38:16
+2024-04-23 22:38:16,220 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:38:16
+2024-04-23 22:38:16,223 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:38:16
+2024-04-23 22:38:16,227 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-04-23 22:38:16,231 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-04-23 22:38:16,407 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-04-23 22:38:16,408 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-04-23 22:38:16
+2024-04-23 22:38:16,409 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-04-23 22:38:16,416 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-04-23 22:38:16,417 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-04-23 22:38:16
+2024-04-23 22:38:16,418 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-04-23 22:38:16,427 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-04-23 22:38:16,430 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-04-23 22:38:16
+2024-04-23 22:38:16,431 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-04-23 22:38:16,435 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:38:43,762 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:38:43,766 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-04-23 22:38:43
+2024-04-23 22:38:43,767 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:27
+2024-04-23 22:38:55,006 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-04-23 22:38:55,007 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-04-23 22:38:55
+2024-04-23 22:38:55,008 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:38
+2024-04-23 22:40:04,682 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-04-23 22:40:05,792 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-04-23 22:40:12,254 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:40:12
+2024-04-23 22:40:12,256 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:40:12
+2024-04-23 22:40:12,260 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:40:12
+2024-04-23 22:40:12,262 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:40:12
+2024-04-23 22:40:12,265 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:40:12
+2024-04-23 22:40:12,266 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:40:12
+2024-04-23 22:40:12,269 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:40:12
+2024-04-23 22:40:12,273 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-04-23 22:40:12,288 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-04-23 22:40:12,468 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-04-23 22:40:12,469 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-04-23 22:40:12
+2024-04-23 22:40:12,470 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-04-23 22:40:12,476 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-04-23 22:40:12,477 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-04-23 22:40:12
+2024-04-23 22:40:12,480 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-04-23 22:40:12,486 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-04-23 22:40:12,486 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-04-23 22:40:12
+2024-04-23 22:40:12,487 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-04-23 22:40:12,495 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:40:16,536 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-04-23 22:40:17,452 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-04-23 22:40:39,777 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:40:39,778 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-04-23 22:40:39
+2024-04-23 22:40:39,779 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:27
+2024-04-23 22:40:50,847 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-04-23 22:40:50,848 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-04-23 22:40:50
+2024-04-23 22:40:50,848 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:38
+2024-04-23 22:41:46,030 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:41:46
+2024-04-23 22:41:46,033 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:41:46
+2024-04-23 22:41:46,036 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:41:46
+2024-04-23 22:41:46,038 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:41:46
+2024-04-23 22:41:46,041 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:41:46
+2024-04-23 22:41:46,044 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:41:46
+2024-04-23 22:41:46,047 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-04-23 22:41:46
+2024-04-23 22:41:46,055 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-04-23 22:41:46,065 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-04-23 22:41:46,228 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-04-23 22:41:46,229 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-04-23 22:41:46
+2024-04-23 22:41:46,230 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-04-23 22:41:46,237 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-04-23 22:41:46,238 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-04-23 22:41:46
+2024-04-23 22:41:46,239 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-04-23 22:41:46,247 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-04-23 22:41:46,247 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-04-23 22:41:46
+2024-04-23 22:41:46,249 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-04-23 22:41:46,256 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:41:48,405 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-04-23 22:41:50,171 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-04-23 22:42:13,593 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-04-23 22:42:13,593 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-04-23 22:42:13
+2024-04-23 22:42:13,594 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:27
+2024-04-23 22:42:24,766 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-04-23 22:42:24,766 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-04-23 22:42:24
+2024-04-23 22:42:24,767 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:38
+2024-05-05 20:32:03,881 - INFO - Started copying from C:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:32:03
+2024-05-05 20:32:03,890 - INFO - Started copying from D:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:32:03
+2024-05-05 20:32:03,900 - INFO - Started copying from F:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:32:03
+2024-05-05 20:32:03,908 - INFO - Started copying from G:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:32:03
+2024-05-05 20:32:03,914 - INFO - Started copying from H:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:32:03
+2024-05-05 20:32:03,919 - INFO - Started copying from I:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:32:03
+2024-05-05 20:32:03,924 - INFO - Started copying from J:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:32:03
+2024-05-05 20:32:03,947 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:32:03,966 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:32:14,023 - ERROR - Error accessing G:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:32:16,845 - ERROR - Error accessing F:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:32:18,188 - ERROR - Error accessing H:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:32:20,435 - ERROR - Error accessing J:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:32:27,494 - ERROR - Error accessing I:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:32:29,075 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:32:30,047 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:32:50,653 - INFO - Started copying from C:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:32:50
+2024-05-05 20:32:50,656 - INFO - Started copying from D:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:32:50
+2024-05-05 20:32:50,658 - INFO - Started copying from F:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:32:50
+2024-05-05 20:32:50,660 - INFO - Started copying from G:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:32:50
+2024-05-05 20:32:50,663 - INFO - Started copying from H:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:32:50
+2024-05-05 20:32:50,666 - INFO - Started copying from I:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:32:50
+2024-05-05 20:32:50,669 - INFO - Started copying from J:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:32:50
+2024-05-05 20:32:50,679 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:32:50,705 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:32:54,634 - ERROR - Error accessing F:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:32:55,460 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:32:56,358 - ERROR - Error accessing I:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:32:57,110 - ERROR - Error accessing G:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:32:57,784 - ERROR - Error accessing H:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:32:58,426 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:32:59,036 - ERROR - Error accessing J:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:34:28,774 - INFO - Started copying from C:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:34:28
+2024-05-05 20:34:28,776 - INFO - Started copying from D:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:34:28
+2024-05-05 20:34:28,778 - INFO - Started copying from F:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:34:28
+2024-05-05 20:34:28,780 - INFO - Started copying from G:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:34:28
+2024-05-05 20:34:28,782 - INFO - Started copying from H:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:34:28
+2024-05-05 20:34:28,785 - INFO - Started copying from I:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:34:28
+2024-05-05 20:34:28,788 - INFO - Started copying from J:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:34:28
+2024-05-05 20:34:28,798 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:34:28,810 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:34:30,704 - ERROR - Error accessing I:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:34:30,934 - ERROR - Error accessing H:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:34:31,253 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:34:31,466 - ERROR - Error accessing J:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:34:31,688 - ERROR - Error accessing F:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:34:31,917 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:34:32,446 - ERROR - Error accessing G:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:37:07,457 - INFO - Started copying from C:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:37:07
+2024-05-05 20:37:07,459 - INFO - Started copying from D:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:37:07
+2024-05-05 20:37:07,461 - INFO - Started copying from F:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:37:07
+2024-05-05 20:37:07,463 - INFO - Started copying from G:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:37:07
+2024-05-05 20:37:07,466 - INFO - Started copying from H:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:37:07
+2024-05-05 20:37:07,468 - INFO - Started copying from I:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:37:07
+2024-05-05 20:37:07,471 - INFO - Started copying from J:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:37:07
+2024-05-05 20:37:07,479 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:37:07,491 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:37:11,497 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:37:12,467 - ERROR - Error accessing G:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:37:14,300 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:37:15,429 - ERROR - Error accessing F:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:37:16,667 - ERROR - Error accessing I:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:37:17,667 - ERROR - Error accessing J:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:37:19,281 - ERROR - Error accessing H:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:38:02,156 - INFO - Started copying from C:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:38:02
+2024-05-05 20:38:02,158 - INFO - Started copying from D:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:38:02
+2024-05-05 20:38:02,160 - INFO - Started copying from F:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:38:02
+2024-05-05 20:38:02,162 - INFO - Started copying from G:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:38:02
+2024-05-05 20:38:02,164 - INFO - Started copying from H:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:38:02
+2024-05-05 20:38:02,167 - INFO - Started copying from I:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:38:02
+2024-05-05 20:38:02,169 - INFO - Started copying from J:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:38:02
+2024-05-05 20:38:02,180 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:38:02,190 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:38:04,176 - ERROR - Error accessing G:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:38:04,918 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:38:05,686 - ERROR - Error accessing F:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:38:06,411 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:38:06,636 - ERROR - Error accessing I:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:38:06,832 - ERROR - Error accessing H:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:38:07,467 - ERROR - Error accessing J:: expected str, bytes or os.PathLike object, not dict
+2024-05-05 20:39:04,065 - INFO - Started copying from C:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:39:04
+2024-05-05 20:39:04,076 - INFO - Started copying from D:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:39:04
+2024-05-05 20:39:04,087 - INFO - Started copying from F:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:39:04
+2024-05-05 20:39:04,097 - INFO - Started copying from G:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:39:04
+2024-05-05 20:39:04,108 - INFO - Started copying from H:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:39:04
+2024-05-05 20:39:04,115 - INFO - Started copying from I:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:39:04
+2024-05-05 20:39:04,122 - INFO - Started copying from J:DCIM\MOVIE to {'destination_folder': 'C:/Users/Sajtic/Desktop/test', 'auto_start': True, 'minimize_to_tray': True, 'delete_files': True, 'stop_copying': False} at 2024-05-05 20:39:04
+2024-05-05 20:39:04,148 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:39:04,167 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:40:21,800 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:40:21
+2024-05-05 20:40:21,802 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:40:21
+2024-05-05 20:40:21,804 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:40:21
+2024-05-05 20:40:21,807 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:40:21
+2024-05-05 20:40:21,809 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:40:21
+2024-05-05 20:40:21,812 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:40:21
+2024-05-05 20:40:21,814 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:40:21
+2024-05-05 20:40:21,819 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:40:21,826 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:40:22,099 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-05-05 20:40:22,101 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-05-05 20:40:22
+2024-05-05 20:40:22,104 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-05-05 20:40:22,105 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-05-05 20:40:22,108 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-05-05 20:40:22
+2024-05-05 20:40:22,112 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-05-05 20:40:22,112 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 20:40:22,149 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-05-05 20:40:22,151 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-05-05 20:40:22
+2024-05-05 20:40:22,152 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-05-05 20:40:29,870 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:40:30,715 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:40:52,005 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 20:40:52,009 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-05-05 20:40:52
+2024-05-05 20:40:52,014 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:30
+2024-05-05 20:41:05,210 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-05-05 20:41:05,213 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-05-05 20:41:05
+2024-05-05 20:41:05,217 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:43
+2024-05-05 20:43:42,974 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:43:42
+2024-05-05 20:43:42,980 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:43:42
+2024-05-05 20:43:42,985 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:43:42
+2024-05-05 20:43:42,988 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:43:42
+2024-05-05 20:43:42,991 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:43:42
+2024-05-05 20:43:42,994 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:43:42
+2024-05-05 20:43:42,997 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:43:42
+2024-05-05 20:43:43,002 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:43:43,009 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:43:43,196 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-05-05 20:43:43,199 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-05-05 20:43:43
+2024-05-05 20:43:43,203 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-05-05 20:43:43,206 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-05-05 20:43:43,209 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-05-05 20:43:43
+2024-05-05 20:43:43,216 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-05-05 20:43:43,216 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-05-05 20:43:43,221 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-05-05 20:43:43
+2024-05-05 20:43:43,221 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-05-05 20:43:43,224 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 20:43:48,029 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:43:48,865 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:44:13,949 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 20:44:13,954 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-05-05 20:44:13
+2024-05-05 20:44:13,962 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:30
+2024-05-05 20:44:26,513 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-05-05 20:44:26,516 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-05-05 20:44:26
+2024-05-05 20:44:26,522 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:43
+2024-05-05 20:52:40,933 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:52:40
+2024-05-05 20:52:40,935 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:52:40
+2024-05-05 20:52:40,937 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:52:40
+2024-05-05 20:52:40,939 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:52:40
+2024-05-05 20:52:40,942 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:52:40
+2024-05-05 20:52:40,944 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:52:40
+2024-05-05 20:52:40,946 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:52:40
+2024-05-05 20:52:40,951 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:52:40,955 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:52:41,131 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 20:52:41,153 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-05-05 20:52:41,155 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-05-05 20:52:41
+2024-05-05 20:52:41,158 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-05-05 20:52:41,162 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-05-05 20:52:41,165 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-05-05 20:52:41
+2024-05-05 20:52:41,168 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-05-05 20:52:41,171 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-05-05 20:52:41,174 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-05-05 20:52:41
+2024-05-05 20:52:41,177 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-05-05 20:52:45,088 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:52:46,023 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:53:08,831 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 20:53:08,836 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-05-05 20:53:08
+2024-05-05 20:53:08,840 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:27
+2024-05-05 20:53:20,735 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-05-05 20:53:20,739 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-05-05 20:53:20
+2024-05-05 20:53:20,744 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:39
+2024-05-05 20:55:02,081 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:55:02
+2024-05-05 20:55:02,085 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:55:02
+2024-05-05 20:55:02,088 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:55:02
+2024-05-05 20:55:02,092 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:55:02
+2024-05-05 20:55:02,095 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:55:02
+2024-05-05 20:55:02,099 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:55:02
+2024-05-05 20:55:02,102 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 20:55:02
+2024-05-05 20:55:02,108 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:55:02,111 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:55:02,308 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-05-05 20:55:02,311 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-05-05 20:55:02
+2024-05-05 20:55:02,314 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-05-05 20:55:02,320 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-05-05 20:55:02,325 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-05-05 20:55:02
+2024-05-05 20:55:02,329 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-05-05 20:55:02,331 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-05-05 20:55:02,337 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-05-05 20:55:02
+2024-05-05 20:55:02,339 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 20:55:02,340 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-05-05 20:55:05,189 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 20:55:06,372 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 20:55:31,486 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 20:55:31,490 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-05-05 20:55:31
+2024-05-05 20:55:31,496 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:29
+2024-05-05 20:55:43,463 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-05-05 20:55:43,466 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-05-05 20:55:43
+2024-05-05 20:55:43,469 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:41
+2024-05-05 21:00:10,159 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:00:10
+2024-05-05 21:00:10,162 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:00:10
+2024-05-05 21:00:10,165 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:00:10
+2024-05-05 21:00:10,168 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:00:10
+2024-05-05 21:00:10,171 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:00:10
+2024-05-05 21:00:10,174 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:00:10
+2024-05-05 21:00:10,176 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:00:10
+2024-05-05 21:00:10,181 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 21:00:10,184 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 21:00:10,412 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-05-05 21:00:10,414 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-05-05 21:00:10
+2024-05-05 21:00:10,416 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-05-05 21:00:10,420 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-05-05 21:00:10,423 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-05-05 21:00:10
+2024-05-05 21:00:10,434 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-05-05 21:00:10,434 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-05-05 21:00:10,440 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-05-05 21:00:10
+2024-05-05 21:00:10,441 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 21:00:10,445 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-05-05 21:00:13,247 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 21:00:14,019 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 21:00:38,001 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 21:00:38,005 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-05-05 21:00:38
+2024-05-05 21:00:38,009 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:27
+2024-05-05 21:00:49,460 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-05-05 21:00:49,463 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-05-05 21:00:49
+2024-05-05 21:00:49,466 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:39
+2024-05-05 21:02:07,302 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:02:07
+2024-05-05 21:02:07,305 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:02:07
+2024-05-05 21:02:07,308 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:02:07
+2024-05-05 21:02:07,311 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:02:07
+2024-05-05 21:02:07,313 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:02:07
+2024-05-05 21:02:07,316 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:02:07
+2024-05-05 21:02:07,318 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:02:07
+2024-05-05 21:02:07,323 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 21:02:07,327 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 21:02:07,516 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-05-05 21:02:07,519 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-05-05 21:02:07
+2024-05-05 21:02:07,522 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-05-05 21:02:07,526 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-05-05 21:02:07,528 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-05-05 21:02:07
+2024-05-05 21:02:07,535 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-05-05 21:02:07,535 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-05-05 21:02:07,538 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-05-05 21:02:07
+2024-05-05 21:02:07,540 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-05-05 21:02:07,546 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 21:02:10,083 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 21:02:10,781 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 21:02:38,172 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 21:02:38,176 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-05-05 21:02:38
+2024-05-05 21:02:38,178 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:30
+2024-05-05 21:02:50,084 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-05-05 21:02:50,088 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-05-05 21:02:50
+2024-05-05 21:02:50,092 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:42
+2024-05-05 21:11:25,931 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:11:25
+2024-05-05 21:11:25,942 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:11:25
+2024-05-05 21:11:25,952 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:11:25
+2024-05-05 21:11:25,963 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:11:25
+2024-05-05 21:11:25,970 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:11:25
+2024-05-05 21:11:25,977 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:11:25
+2024-05-05 21:11:25,984 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:11:25
+2024-05-05 21:11:25,997 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 21:11:26,009 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 21:11:26,248 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-05-05 21:11:26,253 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-05-05 21:11:26
+2024-05-05 21:11:26,260 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-05-05 21:11:26,262 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-05-05 21:11:26,269 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 21:11:26,269 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-05-05 21:11:26
+2024-05-05 21:11:26,276 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-05-05 21:11:26,291 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-05-05 21:11:26,295 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-05-05 21:11:26
+2024-05-05 21:11:26,299 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-05-05 21:11:30,112 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 21:11:31,170 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 21:11:55,662 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 21:11:55,667 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-05-05 21:11:55
+2024-05-05 21:11:55,673 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:29
+2024-05-05 21:12:08,421 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-05-05 21:12:08,425 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-05-05 21:12:08
+2024-05-05 21:12:08,430 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:42
+2024-05-05 21:36:12,191 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:36:12
+2024-05-05 21:36:12,200 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:36:12
+2024-05-05 21:36:12,210 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:36:12
+2024-05-05 21:36:12,219 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:36:12
+2024-05-05 21:36:12,228 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:36:12
+2024-05-05 21:36:12,234 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:36:12
+2024-05-05 21:36:12,241 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:36:12
+2024-05-05 21:36:12,253 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 21:36:12,282 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 21:36:12,452 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 21:36:12,476 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-05-05 21:36:12,481 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-05-05 21:36:12
+2024-05-05 21:36:12,489 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-05-05 21:36:12,489 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-05-05 21:36:12,500 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-05-05 21:36:12
+2024-05-05 21:36:12,500 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-05-05 21:36:12,504 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-05-05 21:36:12,504 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-05-05 21:36:12
+2024-05-05 21:36:12,511 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-05-05 21:36:41,489 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 21:36:42,252 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 21:36:43,071 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 21:36:43,081 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-05-05 21:36:43
+2024-05-05 21:36:43,088 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:30
+2024-05-05 21:36:55,804 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-05-05 21:36:55,809 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-05-05 21:36:55
+2024-05-05 21:36:55,818 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:43
+2024-05-05 21:39:14,113 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:39:14
+2024-05-05 21:39:14,123 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:39:14
+2024-05-05 21:39:14,136 - INFO - Started copying from F:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:39:14
+2024-05-05 21:39:14,143 - INFO - Started copying from G:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:39:14
+2024-05-05 21:39:14,150 - INFO - Started copying from H:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:39:14
+2024-05-05 21:39:14,157 - INFO - Started copying from I:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:39:14
+2024-05-05 21:39:14,164 - INFO - Started copying from J:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-05-05 21:39:14
+2024-05-05 21:39:14,179 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 21:39:14,190 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 21:39:14,409 - INFO - Copied H:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_048
+2024-05-05 21:39:14,413 - INFO - Finished copying from H: to C:/Users/Sajtic/Desktop/test/Shopnosis_048 at 2024-05-05 21:39:14
+2024-05-05 21:39:14,420 - INFO - Elapsed time for drive H: and Shopnosis_048: 00:00:00
+2024-05-05 21:39:14,420 - INFO - Copied I:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_049
+2024-05-05 21:39:14,426 - INFO - Finished copying from I: to C:/Users/Sajtic/Desktop/test/Shopnosis_049 at 2024-05-05 21:39:14
+2024-05-05 21:39:14,431 - INFO - Copied J:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_050
+2024-05-05 21:39:14,434 - INFO - Elapsed time for drive I: and Shopnosis_049: 00:00:00
+2024-05-05 21:39:14,435 - INFO - Finished copying from J: to C:/Users/Sajtic/Desktop/test/Shopnosis_050 at 2024-05-05 21:39:14
+2024-05-05 21:39:14,439 - INFO - Copied F:DCIM\MOVIE\2016_0611_093834_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 21:39:14,444 - INFO - Elapsed time for drive J: and Shopnosis_050: 00:00:00
+2024-05-05 21:39:16,537 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-05-05 21:39:17,616 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-05-05 21:39:41,265 - INFO - Copied F:DCIM\MOVIE\2023_1202_133035_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_046
+2024-05-05 21:39:41,268 - INFO - Finished copying from F: to C:/Users/Sajtic/Desktop/test/Shopnosis_046 at 2024-05-05 21:39:41
+2024-05-05 21:39:41,270 - INFO - Elapsed time for drive F: and Shopnosis_046: 00:00:27
+2024-05-05 21:39:51,860 - INFO - Copied G:DCIM\MOVIE\2023_1201_161259_001.MP4 to C:/Users/Sajtic/Desktop/test\Shopnosis_047
+2024-05-05 21:39:51,861 - INFO - Finished copying from G: to C:/Users/Sajtic/Desktop/test/Shopnosis_047 at 2024-05-05 21:39:51
+2024-05-05 21:39:51,864 - INFO - Elapsed time for drive G: and Shopnosis_047: 00:00:37
+2024-11-07 22:13:15,626 - INFO - Started copying from C:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-11-07 22:13:15
+2024-11-07 22:13:15,628 - INFO - Started copying from D:DCIM\MOVIE to C:/Users/Sajtic/Desktop/test at 2024-11-07 22:13:15
+2024-11-07 22:13:15,633 - ERROR - Error accessing on drive size C:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'
+2024-11-07 22:13:15,637 - ERROR - Error accessing on drive size D:DCIM\MOVIE: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-11-07 22:13:18,362 - ERROR - Error accessing D:: [WinError 3] The system cannot find the path specified: 'D:DCIM\\MOVIE'
+2024-11-07 22:13:20,243 - ERROR - Error accessing C:: [WinError 3] The system cannot find the path specified: 'C:DCIM\\MOVIE'

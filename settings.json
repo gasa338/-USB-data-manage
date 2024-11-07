@@ -1,0 +1,7 @@
+{
+    "destination_folder": "C:/Users/Sajtic/Desktop/test",
+    "auto_start": true,
+    "minimize_to_tray": true,
+    "delete_files": true,
+    "stop_copying": false
+}
